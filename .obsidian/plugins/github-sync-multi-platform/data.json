@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "syncEnabled": true,
+    "githubOwner": "YoloDenind948",
+    "githubRepo": "Yolo",
+    "githubBranch": "main",
+    "githubToken": "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",
+    "lastSyncTime": 0,
+    "vault": "defaultVault",
+    "clipboardReadTip": ""
+  },
+  "syncData": {
+    "files": {}
+  }
+}
