@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:YoloDenind948/Yolo.git",
+  "gitLocation": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
